@@ -1,1 +1,11 @@
 -- Welcome to Employee Payroll Program
+
+-- UC1: Ability to create a payroll service database
+
+    create database payroll_service
+
+-- create database payroll_service	1 row(s) affected	0.015 sec
+
+    use payroll_service
+
+-- use payroll_service	0 row(s) affected	0.000 sec
